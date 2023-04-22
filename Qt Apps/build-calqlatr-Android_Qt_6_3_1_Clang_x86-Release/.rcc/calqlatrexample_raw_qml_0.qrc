@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/demos/calqlatr/">
+    <file alias="calqlatr.qml">C:/Qt_BA/Examples/Qt-6.4.0/demos/calqlatr/calqlatr.qml</file>
+    <file alias="content/Display.qml">C:/Qt_BA/Examples/Qt-6.4.0/demos/calqlatr/content/Display.qml</file>
+    <file alias="content/NumberPad.qml">C:/Qt_BA/Examples/Qt-6.4.0/demos/calqlatr/content/NumberPad.qml</file>
+    <file alias="content/CalculatorButton.qml">C:/Qt_BA/Examples/Qt-6.4.0/demos/calqlatr/content/CalculatorButton.qml</file>
+    <file alias="content/calculator.js">C:/Qt_BA/Examples/Qt-6.4.0/demos/calqlatr/content/calculator.js</file>
+    <file alias="content/images/paper-edge-left.png">C:/Qt_BA/Examples/Qt-6.4.0/demos/calqlatr/content/images/paper-edge-left.png</file>
+    <file alias="content/images/paper-edge-right.png">C:/Qt_BA/Examples/Qt-6.4.0/demos/calqlatr/content/images/paper-edge-right.png</file>
+    <file alias="content/images/paper-grip.png">C:/Qt_BA/Examples/Qt-6.4.0/demos/calqlatr/content/images/paper-grip.png</file>
+  </qresource>
+</RCC>
+

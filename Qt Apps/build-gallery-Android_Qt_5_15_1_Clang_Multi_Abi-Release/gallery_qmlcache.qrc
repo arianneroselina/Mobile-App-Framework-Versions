@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="fonts/OpenSans-Regular.ttf">../gallery/fonts/OpenSans-Regular.ttf</file>
+        <file alias="images/background-light.png">../gallery/images/background-light.png</file>
+        <file alias="images/background.png">../gallery/images/background.png</file>
+        <file alias="images/center-light.png">../gallery/images/center-light.png</file>
+        <file alias="images/center.png">../gallery/images/center.png</file>
+        <file alias="images/icon-go.png">../gallery/images/icon-go.png</file>
+        <file alias="images/icon-settings.png">../gallery/images/icon-settings.png</file>
+        <file alias="images/info.png">../gallery/images/info.png</file>
+        <file alias="images/needle-light.png">../gallery/images/needle-light.png</file>
+        <file alias="images/needle.png">../gallery/images/needle.png</file>
+        <file alias="images/qt-logo.png">../gallery/images/qt-logo.png</file>
+        <file alias="images/zoom_in.png">../gallery/images/zoom_in.png</file>
+        <file alias="images/zoom_out.png">../gallery/images/zoom_out.png</file>
+        <file alias="qml/BlackButtonBackground.qml">../gallery/qml/BlackButtonBackground.qml</file>
+        <file alias="qml/BlackButtonStyle.qml">../gallery/qml/BlackButtonStyle.qml</file>
+        <file alias="qml/CircularGaugeDarkStyle.qml">../gallery/qml/CircularGaugeDarkStyle.qml</file>
+        <file alias="qml/CircularGaugeDefaultStyle.qml">../gallery/qml/CircularGaugeDefaultStyle.qml</file>
+        <file alias="qml/CircularGaugeLightStyle.qml">../gallery/qml/CircularGaugeLightStyle.qml</file>
+        <file alias="qml/CircularGaugeView.qml">../gallery/qml/CircularGaugeView.qml</file>
+        <file alias="qml/ControlView.qml">../gallery/qml/ControlView.qml</file>
+        <file alias="qml/ControlViewToolbar.qml">../gallery/qml/ControlViewToolbar.qml</file>
+        <file alias="qml/CustomizerSwitch.qml">../gallery/qml/CustomizerSwitch.qml</file>
+        <file alias="qml/CustomizerLabel.qml">../gallery/qml/CustomizerLabel.qml</file>
+        <file alias="qml/CustomizerSlider.qml">../gallery/qml/CustomizerSlider.qml</file>
+        <file alias="qml/FlickableMoreIndicator.qml">../gallery/qml/FlickableMoreIndicator.qml</file>
+        <file alias="qml/gallery.qml">../gallery/qml/gallery.qml</file>
+        <file alias="qml/PieMenuControlView.qml">../gallery/qml/PieMenuControlView.qml</file>
+        <file alias="qml/StylePicker.qml">../gallery/qml/StylePicker.qml</file>
+        <file alias="qml/PieMenuDarkStyle.qml">../gallery/qml/PieMenuDarkStyle.qml</file>
+        <file alias="qml/PieMenuDefaultStyle.qml">../gallery/qml/PieMenuDefaultStyle.qml</file>
+        <file alias="qml/ControlLabel.qml">../gallery/qml/ControlLabel.qml</file>
+        <file alias="images/icon-back.png">../gallery/images/icon-back.png</file>
+    </qresource>
+</RCC>

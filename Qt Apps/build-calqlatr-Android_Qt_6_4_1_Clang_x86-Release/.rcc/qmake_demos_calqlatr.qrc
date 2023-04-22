@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/demos/calqlatr">
+    <file alias="qmldir">C:/Qt_BA/Examples/Qt-6.4.0/demos/build-calqlatr-Android_Qt_6_4_1_Clang_x86-Release/demos/calqlatr/qmldir</file>
+  </qresource>
+</RCC>
+

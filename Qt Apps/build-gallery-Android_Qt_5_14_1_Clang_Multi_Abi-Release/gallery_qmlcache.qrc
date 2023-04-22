@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="fonts/OpenSans-Regular.ttf">../gallery/fonts/OpenSans-Regular.ttf</file>
+        <file alias="images/background-light.png">../gallery/images/background-light.png</file>
+        <file alias="images/background.png">../gallery/images/background.png</file>
+        <file alias="images/center-light.png">../gallery/images/center-light.png</file>
+        <file alias="images/center.png">../gallery/images/center.png</file>
+        <file alias="images/icon-go.png">../gallery/images/icon-go.png</file>
+        <file alias="images/icon-settings.png">../gallery/images/icon-settings.png</file>
+        <file alias="images/info.png">../gallery/images/info.png</file>
+        <file alias="images/needle-light.png">../gallery/images/needle-light.png</file>
+        <file alias="images/needle.png">../gallery/images/needle.png</file>
+        <file alias="images/qt-logo.png">../gallery/images/qt-logo.png</file>
+        <file alias="images/zoom_in.png">../gallery/images/zoom_in.png</file>
+        <file alias="images/zoom_out.png">../gallery/images/zoom_out.png</file>
+        <file alias="images/icon-back.png">../gallery/images/icon-back.png</file>
+    </qresource>
+</RCC>
