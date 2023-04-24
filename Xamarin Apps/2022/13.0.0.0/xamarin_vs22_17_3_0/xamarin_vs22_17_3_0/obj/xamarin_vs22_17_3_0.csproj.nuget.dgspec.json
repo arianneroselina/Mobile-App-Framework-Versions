@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Bachelorarbeit\\FrameworkApps\\XamarinApps\\Apps\\2022\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0.csproj": {}
+  },
+  "projects": {
+    "C:\\Bachelorarbeit\\FrameworkApps\\XamarinApps\\Apps\\2022\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bachelorarbeit\\FrameworkApps\\XamarinApps\\Apps\\2022\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0.csproj",
+        "projectName": "xamarin_vs22_17_3_0",
+        "projectPath": "C:\\Bachelorarbeit\\FrameworkApps\\XamarinApps\\Apps\\2022\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0.csproj",
+        "packagesPath": "C:\\Users\\ArianneRoselinaPrana\\.nuget\\packages\\",
+        "outputPath": "C:\\Bachelorarbeit\\FrameworkApps\\XamarinApps\\Apps\\2022\\xamarin_vs22_17_3_0\\xamarin_vs22_17_3_0\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ArianneRoselinaPrana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

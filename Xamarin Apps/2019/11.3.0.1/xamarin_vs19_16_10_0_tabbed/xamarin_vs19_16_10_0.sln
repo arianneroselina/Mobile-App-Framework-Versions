@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarin_vs19_16_10_0", "xamarin_vs19_16_10_0\xamarin_vs19_16_10_0.csproj", "{6B3FB8E1-88A7-4011-B43E-4A83F001302D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3FB8E1-88A7-4011-B43E-4A83F001302D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3FB8E1-88A7-4011-B43E-4A83F001302D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3FB8E1-88A7-4011-B43E-4A83F001302D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6B3FB8E1-88A7-4011-B43E-4A83F001302D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3FB8E1-88A7-4011-B43E-4A83F001302D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3FB8E1-88A7-4011-B43E-4A83F001302D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA4908B-3170-4F8D-892E-9EE4CBF4DCC5}
+	EndGlobalSection
+EndGlobal
